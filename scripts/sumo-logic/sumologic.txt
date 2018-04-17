@@ -1,0 +1,5 @@
+
+./http_api_endpoint &
+
+./inspectDockerLoggingPlugin --html --test-script ./test_sumologic_plugin.sh --get-logs-script ./get_sumologic_logs.sh dockerstorestaging/sumologic-docker-logging-driver:xxxxxx
+

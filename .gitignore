@@ -1,0 +1,12 @@
+debug
+*DS_Store
+html
+repo-info
+http_api_agent
+http_api_agent.exe
+InspectDockerLoggingPlugin
+inspectDockerLoggingPlugin
+*.exe
+*tar*
+.vscode
+~
