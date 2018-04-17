@@ -32,7 +32,9 @@ The following inspection steps and tests are performed:
 
 Build the binary with the following:
 
-`go build ./inspectDockerNetworkingPlugin.go`
+- `go build ./inspectDockerNetworkingPlugin.go`
+
+- Pre-build binaries are included in the `./bin/<OS>/inspectDockerNetworkingPlugin` directory.
 
 ## Setup
 
