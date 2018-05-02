@@ -28,7 +28,6 @@ import (
 	"flag"
 	"fmt"
 	"html/template"
-	//"io/ioutil"
 	"log"
 	"os"
 	"os/exec"
