@@ -49,8 +49,8 @@ Build the binary with the following:
 
       * Or you can specify them as arguments to the **inspectDockerNetworkingPlugin** command.
 
-        * **--docker-user**
-        * **--docker-password**
+        * `--docker-user`
+        * `--docker-password`
 
       * Otherwise the **inspectDockerNetworkingPlugin** command will prompt for them.
 
